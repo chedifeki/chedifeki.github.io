@@ -1,10 +1,10 @@
 ---
 title: "On Starting This Blog"
-date: 2025-11-06T19:00:00+01:00
+date: 2025-11-06T19:00:00
 draft: true
 description: "Why I'm beginning a public learning log in the age of AI, the tools behind it, and the philosophy guiding it."
 tags: ["learning", "writing", "technology", "reflection"]
-categories: ["meta"]
+categories: ["Meta", "Blogging"]
 ---
 
 ## Why Now — at the Age of AI?
